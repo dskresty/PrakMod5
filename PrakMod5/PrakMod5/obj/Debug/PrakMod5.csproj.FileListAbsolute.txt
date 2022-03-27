@@ -1,0 +1,8 @@
+C:\Users\desak\Documents\PrakMod5\PrakMod5\PrakMod5\PrakMod5\bin\Debug\PrakMod5.exe.config
+C:\Users\desak\Documents\PrakMod5\PrakMod5\PrakMod5\PrakMod5\bin\Debug\PrakMod5.exe
+C:\Users\desak\Documents\PrakMod5\PrakMod5\PrakMod5\PrakMod5\bin\Debug\PrakMod5.pdb
+C:\Users\desak\Documents\PrakMod5\PrakMod5\PrakMod5\PrakMod5\obj\Debug\PrakMod5.csproj.AssemblyReference.cache
+C:\Users\desak\Documents\PrakMod5\PrakMod5\PrakMod5\PrakMod5\obj\Debug\PrakMod5.csproj.SuggestedBindingRedirects.cache
+C:\Users\desak\Documents\PrakMod5\PrakMod5\PrakMod5\PrakMod5\obj\Debug\PrakMod5.csproj.CoreCompileInputs.cache
+C:\Users\desak\Documents\PrakMod5\PrakMod5\PrakMod5\PrakMod5\obj\Debug\PrakMod5.exe
+C:\Users\desak\Documents\PrakMod5\PrakMod5\PrakMod5\PrakMod5\obj\Debug\PrakMod5.pdb
